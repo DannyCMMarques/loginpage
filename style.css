@@ -1,0 +1,113 @@
+:root {
+    --roxo: #b400ff;
+    --turquesa: #00b7ff;
+    --roxo-500: #f700ff;
+    --branco: white;
+}
+
+.imagem {
+    width: 100%;
+    height: 100vh;
+    background-image: url('./assets/imagens/498.jpg');
+    background-size: cover;
+    margin: 0;
+}
+
+.container { 
+    margin: 0 !important; 
+} 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  html {
+    @media (max-width: 1080px) {
+      font-size: 93.75%;
+    }
+  
+    @media (max-width: 720px) {
+      font-size: 87.5%;
+    }
+  }
+
+  .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 100%;
+    padding-right: 0px !important; 
+    padding-left: 0px !important; 
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.sessao1 {
+    font-family: sans-serif;
+
+}
+
+.hovado {
+    border: 1px solid var(--roxo);
+    color: var(--roxo);
+}
+
+.hovado:hover {
+    background: var(--roxo-500);
+    color: var(--branco)
+}
+
+.hovadoFace {
+    border: 1px solid var(--turquesa);
+}
+
+.hovado .bi-google:hover {
+    color: rgb(255, 255, 255);
+}
+
+
+.hovadoFace .bi-facebook:hover {
+    color: white;
+}
+
+.sessao2 {
+    display: flex;
+    /* justify-content: center; */
+}
+
+hr {
+    background: #dedede;
+    width: 40%
+}
+
+.sessão3 {
+    display: flex;
+    /* justify-content:center ; */
+    color: #dedede;
+    font-weight: bold;
+}
+
+.botao {
+    background: var(--roxo);
+    color: var(--branco);
+    transition: all ease 0.1s;
+}
+
+.botao:hover {
+    background: var(--roxo-500);
+    color: var(--branco);
+    transition: all ease 0.1s;
+}
+
+.form-control:focus {
+    border-color: #b400ff;
+    box-shadow: 0 0 0 0.2rem rgba(180, 0, 255, 0.25);
+}
+
+@media (max-width: 767px) {
+    .imagem {
+      height: 230px;
+    }
+  }
