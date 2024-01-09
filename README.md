@@ -1,5 +1,5 @@
 
-# 💻 Projetos-HTML-CSS- ***Danny's Coffee***💻
+# 💻 Projetos-HTML-CSS- ***Login Page***💻
 Aprendendo através da realização de pequenos projetos de HTML e CSS
 
 ***"Não desprezem os pequenos começos"***
@@ -13,8 +13,8 @@ Meu foco é refletir sobre quais foram meus aprendizados durante essa prática, 
 
 Fique a vontade para compartilhar feedbacks e trocar aprendizados 🤍
 
-## Projeto 🛠️
-![image](https://github.com/DannyCMMarques/dannyscoffee/blob/main/assets/imagens/DannysCoffee%20versao%20desktop.jpg)
+## Projeto ⚒️
+
 -Versão Desktop
 
 
