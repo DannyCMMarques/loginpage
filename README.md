@@ -23,9 +23,7 @@ Site feito para finalidade de estudo, foi utilizado HTML,CSS e Bootstrap. Foi re
   ### Demonstração 📱
 * Acesse esse link para visualizar o site:
 
-🌠 https://dannycmmarques.github.io/dannyscoffee/  🌠
+💫 https://dannycmmarques.github.io/loginpage/ 💫
 
 
 
-# loginpage
-Site feito para finalidade de estudo de telas de login responsiva, foi utilizado HTML,CSS e Bootstrap. Foi realizado na versão Desktop e mobile first.
